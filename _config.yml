@@ -28,6 +28,10 @@ author:
   bio: Your stylish, minimalist theme!
   email_md5: 726351295ec82e145928582f595aa3aa
 
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
